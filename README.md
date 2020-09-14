@@ -1,8 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Skylab Clone
 
-## Getting Started
+#### Projeto de clone UI utilizando NextJS e Design Systems.
 
-First, run the development server:
+## Funconamento
+
+O Skylabclone foi desenvolvido para treinar conhecimentos com Declarative UI, Design Systems e NextJS.
+
+## Resumo
+**Declarative UI:** Basicamente é a capacidade de dar estilização ao HTML, assim já ao declarar a estrutura da página você tambem declara a estilização
+e funcionalidade daquela tag, tais como: Containers, Buttons, Input. Dando uma melhor noção do que a página vai mostrar já ao ler a estrutura
+
+**Design Systems:** Resumidamente é um conjunto de regras e componentes já definidos para facilitar o desenvolvimento de uma interface mais limpa e padronizada.
+
+
+## Tecnologias Utilizadas:
+
+- NextJS
+- Chakra UI
+- Frame Motion
+
+
+## Demo da Aplicação:
+
+![Farmers Market Finder Demo](images/skylabclone.gif)
+
+## Como Rodar?
+
+Faça o clone da aplicação e coloque na pasta de sua preferência.
+
+Dentro da raiz do projeto utilize o comando para baixar os pacotes do projeto:
+
+```bash
+npm install
+# or
+yarn
+```
+
+Após isso utilize o comando para iniciar o projeto:
 
 ```bash
 npm run dev
@@ -10,21 +44,7 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<h4 align="center">
+	<i>God is Beyond Everything</i>
+</h4>
